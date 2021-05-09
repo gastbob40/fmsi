@@ -59,4 +59,8 @@ pip install -r requirements.txt
 
 ## Lancer le code
 
-Le point d'entrée de notre code est le fichier "hacker.py".
+Le point d'entrée de notre code est le fichier "hacker.py". Ainsi:
+
+```
+python hacker.py
+```
