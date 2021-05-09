@@ -4,9 +4,9 @@
 
 ## A Propos
 
-Ce projet a été réalisé pour un projet d'EPITA. Vous y trouverez ici nos codes afin de tester les performances de différents algorithmes de crackage RSA.
+Ce travail a été réalisé pour un projet d'EPITA. Vous y trouverez ici nos codes afin de tester les performances de différents algorithmes de crackage RSA.
 
-Ce projet a été réalisé par:
+Il a été réalisé par:
 
 - Quentin Briolant
 - Maxime Brouillard
